@@ -30,7 +30,7 @@ Soy [una breve descripción sobre ti: tu experiencia, tus intereses, etc.]. Teng
 
 ## Proyectos Colaborados
 
-### [Directorio Exportador]([https://github.com/usprepositorio/DIRECTORIO.git])
+### [Directorio Exportador](https://github.com/usprepositorio/DIRECTORIO.git)
 Descripción breve del proyecto:
 Esta es el sistema de Directorio Exportador, para promocionar productos hecho en Bolivia
 Tecnologías utilizadas: Frameworks Laravel, Bootstrap V5.3, Node.js, Composer. 
