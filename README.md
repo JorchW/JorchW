@@ -1,64 +1,39 @@
-## 👋 Hi, I’m @JorchW
+## 👋 Hi, I’m Jorge (JorchW)
 
-## 👀 I’m interested in ...
+Soy egresado en Ingeniería de Sistemas con experiencia en programación y desarrollo web. Me apasiona aprender nuevas tecnologías y aplicar soluciones que mejoren la eficiencia y la experiencia de los usuarios.  
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Sobre mí
+- Experiencia en desarrollo web con **Bootstrap, Laravel y PostgreSQL**.  
+- Interés en proyectos que combinen tecnología con la optimización de procesos.  
+- Motivado por crecer profesionalmente en entornos dinámicos y colaborativos.  
 
-<!---
-JorchW/JorchW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# ¡Hola! Soy Jorge (Yorch)
+## 🛠️ Habilidades
+- **Lenguajes de programación**: Java, JavaScript, PHP  
+- **Frameworks**: Laravel, Bootstrap  
+- **Bases de datos**: PostgreSQL, MySQL  
+- **Herramientas**: GitHub, Composer  
+- **Otros**: Trabajo en equipo, adaptabilidad tecnológica, inglés intermedio  
 
-Desarrollador web apasionado por la creación de soluciones innovadoras y eficientes. Me encanta aprender nuevas tecnologías y colaborar en proyectos desafiantes.
+## 📂 Proyectos
+### Directorio Exportador
+Sistema para promocionar productos hechos en Bolivia.  
+**Tecnologías**: Laravel, Bootstrap v5.3, Node.js, Composer  
+**Rol**: Developer  
 
-## Sobre mí
+*(Puedes añadir más proyectos aquí a medida que los publiques en GitHub)*  
 
-Soy [una breve descripción sobre ti: tu experiencia, tus intereses, etc.]. Tengo experiencia en [menciona tus habilidades técnicas] y disfruto trabajando en [menciona tus áreas de interés].
+## 💼 Experiencia
+### Pasante en Sistemas - SENAVEX, La Paz, Bolivia (Abril 2024 – Noviembre 2024)
+- Actualización y mantenimiento de la página institucional con Bootstrap, Laravel y PostgreSQL, mejorando la comunicación y el acceso a la información.  
+- Implementación de cambios en la web institucional que facilitaron la gestión de contenidos y la experiencia de los usuarios internos.  
 
-## Habilidades
+## 🎓 Educación
+- **Ingeniería de Sistemas** – UTB (Universidad Tecnológica Boliviana), La Paz, Bolivia (Egresado 2025)  
 
-- **Lenguajes de programación**: [Ejemplo: Java, Sql, Python, Html.]
-- **Frameworks**: [Ejemplo: Laravel, Node.js.]
-- **Herramientas**: [Ejemplo: GitHub.]
-- **Bases de datos**: [Ejemplo: MySQL, PgSql.]
-- **Otras habilidades**: [Ejemplo: diseño UX/UI, gestión de proyectos.]
+## 📫 Contacto
+- **Correo**: Jorgewilcm27_27@hotmail.com  
+- **Portafolio**: [devjorge.netlify.app](https://devjorge.netlify.app/)  
+- **GitHub**: [JorchW](https://github.com/JorchW)  
 
-## Proyectos Colaborados
-
-### [Directorio Exportador](https://github.com/usprepositorio/DIRECTORIO.git)
-Descripción breve del proyecto:
-Esta es el sistema de Directorio Exportador, para promocionar productos hecho en Bolivia
-Tecnologías utilizadas: Frameworks Laravel, Bootstrap V5.3, Node.js, Composer. 
-rol: Developer
-
-### [Nombre del Proyecto 2](enlace-al-proyecto)
-Descripción breve del proyecto, tecnologías utilizadas y tu rol.
-
-### [Nombre del Proyecto 3](enlace-al-proyecto)
-Descripción breve del proyecto, tecnologías utilizadas y tu rol.
-
-## Experiencia
-
-### [Pasante - Area de Sistemas] - [Senavex] (24 de abril del 2024 - No definida!)
-- [Modificacion del Directorio Exportador]
-
-### [Tu Puesto] - [Nombre de la Empresa] (Fecha de inicio - Fecha de fin)
-- [Responsabilidad o logro destacado]
-- [Responsabilidad o logro destacado]
-
-## Educación
-
-- **[Ingeniera]** en [Sistemas] - [UTB (Universas Tecnologica Boliviana)] (2025)
-
-## Contacto
-
-- **Correo electrónico**: [Jorgejwcn27_27@hotmail.com]
-- **LinkedIn**: [No Proporcionado!]
-- **GitHub**: [https://github.com/JorchW]
-
-¡Gracias por visitar mi portafolio! Espero tener la oportunidad de colaborar contigo.
+---
+✨ Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos que representen un reto y una oportunidad de aprendizaje.
