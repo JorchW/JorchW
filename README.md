@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jorge (JorchW)
 
-Soy egresado en Ingeniería de Sistemas con experiencia en programación y desarrollo web. Me apasiona aprender nuevas tecnologías y aplicar soluciones que mejoren la eficiencia y la experiencia de los usuarios.  
+Soy egresado en Ingeniería de Sistemas con experiencia en programación y desarrollo web. Me apasiona aprender nuevas tecnologías y aplicar soluciones que mejoren la eficiencia y la experiencia de los usuarios.
 
 ## 🚀 Sobre mí
 - Experiencia en desarrollo web con **Bootstrap, Laravel y PostgreSQL**.  
@@ -15,12 +15,15 @@ Soy egresado en Ingeniería de Sistemas con experiencia en programación y desar
 - **Otros**: Trabajo en equipo, adaptabilidad tecnológica, inglés intermedio  
 
 ## 📂 Proyectos
+### Portfolio Web Personal
+Mi sitio web personal donde sabras mas cosas sobre mi persona. 
+**Tecnologías**: ReactJs, Tailwind
+
+## 📂 Proyectos Contribuidos
 ### Directorio Exportador
 Sistema para promocionar productos hechos en Bolivia.  
-**Tecnologías**: Laravel, Bootstrap v5.3, Node.js, Composer  
-**Rol**: Developer  
-
-*(Puedes añadir más proyectos aquí a medida que los publiques en GitHub)*  
+**Tecnologías**: Laravel, Bootstrap v5.3, PostgreSQL
+**Rol**: Developer
 
 ## 💼 Experiencia
 ### Pasante en Sistemas - SENAVEX, La Paz, Bolivia (Abril 2024 – Noviembre 2024)
@@ -31,9 +34,9 @@ Sistema para promocionar productos hechos en Bolivia.
 - **Ingeniería de Sistemas** – UTB (Universidad Tecnológica Boliviana), La Paz, Bolivia (Egresado 2025)  
 
 ## 📫 Contacto
-- **Correo**: Jorgewilcm27_27@hotmail.com  
+- **Correo**: Jorgejwcn27_27@hotmail.com  
 - **Portafolio**: [devjorge.netlify.app](https://devjorge.netlify.app/)  
-- **GitHub**: [JorchW](https://github.com/JorchW)  
+- **GitHub**: ¡¡Ya estas aca :'D!!
 
 ---
 ✨ Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos que representen un reto y una oportunidad de aprendizaje.
