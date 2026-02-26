@@ -9,10 +9,11 @@ Soy egresado en Ingeniería de Sistemas con experiencia en programación y desar
 
 ## 🛠️ Habilidades
 - **Lenguajes de programación**: Java, JavaScript, PHP  
-- **Frameworks**: Laravel, Bootstrap  
+- **Frameworks**: Laravel, Bootstrap, TailWind CSS, React JS
 - **Bases de datos**: PostgreSQL, MySQL  
-- **Herramientas**: GitHub, Composer  
+- **Control de versiones**: GitHub, Gitlab
 - **Otros**: Trabajo en equipo, adaptabilidad tecnológica, inglés intermedio  
+- **Pasatiempos**: Aprender más sobre tecnología, Gamer, Música, etc.
 
 ## 📂 Proyectos
 ### Portfolio Web Personal
@@ -26,7 +27,7 @@ Sistema para promocionar productos hechos en Bolivia.
 **Rol**: Developer
 
 ## 💼 Experiencia
-### Pasante en Sistemas - SENAVEX, La Paz, Bolivia (Abril 2024 – Noviembre 2024)
+### Practicas en el área de Sistemas - SENAVEX, La Paz, Bolivia (Abril 2024 – Noviembre 2024)
 - Actualización y mantenimiento de la página institucional con Bootstrap, Laravel y PostgreSQL, mejorando la comunicación y el acceso a la información.  
 - Implementación de cambios en la web institucional que facilitaron la gestión de contenidos y la experiencia de los usuarios internos.  
 
