@@ -1,6 +1,6 @@
 ## Hi, I’m Jorge (JorchW)
 
-Soy egresado en Ingeniería de Sistemas con experiencia en programación y desarrollo web. Me apasiona aprender nuevas tecnologías y aplicar soluciones que mejoren la eficiencia y la experiencia de los usuarios.
+Soy egresado en Ingeniería de Sistemas con experiencia en programación y desarrollo web. Me apasiona aprender nuevas tecnologías y aplicar soluciones que mejoren la experiencia de los usuarios.
 
 ## Sobre mí
 - Experiencia en desarrollo web con **Bootstrap, Laravel y PostgreSQL**.  
@@ -8,11 +8,12 @@ Soy egresado en Ingeniería de Sistemas con experiencia en programación y desar
 - Motivado por crecer profesionalmente en entornos dinámicos y colaborativos.  
 
 ## Habilidades
-- **Lenguajes de programación**: Java, JavaScript, PHP  
+- **Lenguajes de programación**: Java, JavaScript, PHP
 - **Frameworks**: Laravel, Bootstrap, TailWind CSS, React JS
-- **Bases de datos**: PostgreSQL, MySQL  
+- **Bases de datos**: PostgreSQL, MySQL
+- **Cloud y despliegue**: RailWay, Supabase
 - **Control de versiones**: GitHub, Gitlab
-- **Otros**: Trabajo en equipo, adaptabilidad tecnológica, inglés intermedio  
+- **Nivel de Ingles**: B2
 - **Pasatiempos**: Aprender más sobre tecnología, Gamer, Música, etc.
 
 ## Proyectos
@@ -23,7 +24,7 @@ Mi sitio web personal donde sabras mas cosas sobre mi persona.
 ## Proyectos Contribuidos
 ### Directorio Exportador
 Sistema para promocionar productos hechos en Bolivia.  
-**Tecnologías**: Laravel, Bootstrap v5.3, PostgreSQL
+**Tecnologías**: Laravel, Bootstrap, PostgreSQL
 **Rol**: Developer
 
 ## Experiencia
@@ -35,12 +36,12 @@ Sistema para promocionar productos hechos en Bolivia.
 - **Ingeniería de Sistemas** – UTB (Universidad Tecnológica Boliviana), La Paz, Bolivia (Egresado 2025)  
 
 ## Contacto
-- **Correo**: Jorgejwcn27_27@hotmail.com  
-- **Portafolio**: [devjorge.netlify.app](https://devjorge.netlify.app/)  
-- **GitHub**: ¡¡Ya estas aca :'D!!
+- **Correo**: Jorgejwcn27_27@hotmail.com
+- **WhatsApp**: +
+- **Portafolio**: [devjorgev.vercel.app](https://devjorgev.vercel.app/)  
 
 ## Estadísticas Github
 [![GitHub Streak](https://streak-stats.demolab.com?user=JorchW&theme=darcula)](https://git.io/streak-stats)
 
 ---
-✨ Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos que representen un reto y una oportunidad de aprendizaje.
+✨ Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos que representen un reto, una oportunidad de aprendizaje o simplemete hablar sobre tecnología y juegos.
