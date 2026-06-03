@@ -30,15 +30,18 @@ Sistema para promocionar productos hechos en Bolivia.
 ## Experiencia
 ### Practicas en el área de Sistemas - SENAVEX, La Paz, Bolivia (Abril 2024 – Noviembre 2024)
 - Actualización y mantenimiento de la página institucional con Bootstrap, Laravel y PostgreSQL, mejorando la comunicación y el acceso a la información.  
-- Implementación de cambios en la web institucional que facilitaron la gestión de contenidos y la experiencia de los usuarios internos.  
+- Implementación de cambios en la web institucional que facilitaron la gestión de contenidos y la experiencia de los usuarios internos.
+
+### Propia
+- Con el tiempo aprendi a manejar frameworks como Reactjs, TailwindCss, Materialize, aplicaciones de servicio de cloud y despliegue como RailWay y Supabase.
 
 ## Educación
 - **Ingeniería de Sistemas** – UTB (Universidad Tecnológica Boliviana), La Paz, Bolivia (Egresado 2025)  
 
 ## Contacto
 - **Correo**: Jorgejwcn27_27@hotmail.com
-- **WhatsApp**: +
-- **Portafolio**: [devjorgev.vercel.app](https://devjorgev.vercel.app/)  
+- **WhatsApp**: [![WhatsApp](https://shields.io)](http://wa.me/59162539291)
+- **Portafolio**: [devjorgev.vercel.app](https://devjorgev.vercel.app/)
 
 ## Estadísticas Github
 [![GitHub Streak](https://streak-stats.demolab.com?user=JorchW&theme=darcula)](https://git.io/streak-stats)
