@@ -39,8 +39,8 @@ Sistema para promocionar productos hechos en Bolivia.
 - **Ingeniería de Sistemas** – UTB (Universidad Tecnológica Boliviana), La Paz, Bolivia (Egresado 2025)  
 
 ## Contacto
-- **Correo**: Jorgejwcn27_27@hotmail.com
-- **WhatsApp**: [![WhatsApp](https://shields.io)](http://wa.me/59162539291)
+- **Correo**: [Jorgejwcn27_27@hotmail.com](mailto:Jorgejwcn27_27@hotmail.com)
+- **WhatsApp**: [WhatsApp](https://wa.me/59162539291)
 - **Portafolio**: [devjorgev.vercel.app](https://devjorgev.vercel.app/)
 
 ## Estadísticas Github
