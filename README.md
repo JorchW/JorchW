@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="DEV JORGE Banner" width="100%" height="auto">
+</p>
 ## Hi, I’m Jorge (JorchW)
 
 Soy egresado en Ingeniería de Sistemas con experiencia en programación y desarrollo web. Me apasiona aprender nuevas tecnologías y aplicar soluciones que mejoren la experiencia de los usuarios.
