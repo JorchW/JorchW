@@ -1,92 +1,119 @@
  <div align="center">
 
-<img src="./background.png" width="100%" alt="DEVJORGE" />
+<img src="./background.png" width="100%" alt="DEVJORGE">
 
-[🇪🇸 Español](./README.md) · [🇬🇧 English](./README.en.md)
+<p>
+  <a href="https://github.com/JorchW/JorchW/blob/main/README.md">Español - Spanish</a>
+  ·
+  <a href="https://github.com/JorchW/JorchW/blob/main/README.en.md">English - Inglés</a>
+</p>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=B6FF5C&center=true&vCenter=true&width=700&lines=Jorge+Wilmer;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollo+web+y+sistemas+de+informaci%C3%B3n" alt="Presentación de Jorge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=B6FF5C&center=true&vCenter=true&width=700&lines=Jorge+Wilmer;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollo+web+y+sistemas+de+informaci%C3%B3n" alt="Presentación de Jorge"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTAFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C)](https://devjorgev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/jorchw)
-[![GitHub](https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=D2A8FF)](https://github.com/JorchW)
+<a href="https://devjorgev.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C" alt="Portafolio"/>
+</a>
+<a href="https://www.linkedin.com/in/jorchw">
+  <img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/JorchW">
+  <img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=B6FF5C" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 🟢 01 / Perfil
+## 01 / Perfil
 
-![PROFILE](https://img.shields.io/badge/PROFILE-163D35?style=flat-square&logo=gnometerminal&logoColor=B6FF5C)
+> [!TIP]
+> **Desarrollo Full Stack · Sistemas de información · Soluciones web**
+>
+> Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador web Full Stack de La Paz, Bolivia.
+>
+> Tengo experiencia en desarrollo, refactorización y mantenimiento de plataformas web, sistemas de información, administración de sitios corporativos y gestión de bases de datos.
+>
+> He trabajado tanto en la mejora de aplicaciones existentes como en el desarrollo de sistemas desde cero, participando en su implementación, pruebas y despliegue.
+>
+> Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio digital independiente enfocado en landing pages a medida.
 
-```bash
-$ whoami
-> Jorge Wilmer Choque Nina
-> Ingeniero de Sistemas | Full Stack Developer
-> La Paz, Bolivia 🇧🇴
+> [!IMPORTANT]
+> Mi enfoque combina desarrollo web, mantenimiento de aplicaciones, gestión de datos y creación de soluciones adaptadas a las necesidades de cada proyecto.
+
+### Enlaces de contacto
+
+**Portafolio — copiar enlace**
+
+```text
+https://devjorgev.vercel.app/
 ```
 
-Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador web Full Stack de La Paz, Bolivia.
+**LinkedIn — copiar enlace**
 
-Tengo experiencia en desarrollo, refactorización y mantenimiento de plataformas web, sistemas de información, administración de sitios corporativos y gestión de bases de datos.
+```text
+https://www.linkedin.com/in/jorchw
+```
 
-He trabajado tanto en la mejora de aplicaciones existentes como en el desarrollo de sistemas desde cero, participando en su implementación, pruebas y despliegue.
+**GitHub — copiar enlace**
 
-Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio digital independiente enfocado en landing pages a medida.
+```text
+https://github.com/JorchW
+```
 
-```bash
-$ current_focus
-> Desarrollo web
-> Sistemas de información
-> Interfaces modernas y responsivas
-> Optimización y mantenimiento de aplicaciones
+**Correo electrónico — reemplazar por tu dirección real**
+
+```text
+tu-correo@ejemplo.com
 ```
 
 ---
 
-## 🟦 02 / Tecnologías
-
-![STACK](https://img.shields.io/badge/TECH_STACK-142D4E?style=flat-square&logo=codefactor&logoColor=58A6FF)
+## 02 / Tecnologías
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&theme=dark" alt="Tecnologías frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&theme=dark" alt="Tecnologías frontend"/>
 
 **Backend y bases de datos**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="Tecnologías backend y bases de datos" />
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="Tecnologías backend y bases de datos"/>
 
 **Herramientas y despliegue**
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,wordpress,vercel,netlify&theme=dark" alt="Herramientas y despliegue" />
+<img src="https://skillicons.dev/icons?i=git,github,npm,wordpress,vercel,netlify&theme=dark" alt="Herramientas y despliegue"/>
 
 </div>
 
+> [!NOTE]
+> Estas tecnologías representan las herramientas utilizadas en mis proyectos de desarrollo web, gestión de información y publicación de aplicaciones.
+
 | Área | Tecnologías |
 |:--|:--|
-| 🟢 Frontend | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
-| 🟦 Backend | PHP, Laravel, integración de APIs |
-| 🟣 Bases de datos | PostgreSQL, MySQL, Supabase |
-| 🟠 CMS y comercio electrónico | WordPress, Elementor, WooCommerce |
-| ⚪ Control de versiones | Git, GitHub |
-| 🟢 Despliegue | Vercel, Netlify, Railway |
+| Frontend | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
+| Backend | PHP, Laravel, integración de APIs |
+| Bases de datos | PostgreSQL, MySQL, Supabase |
+| CMS y comercio electrónico | WordPress, Elementor, WooCommerce |
+| Control de versiones | Git, GitHub |
+| Despliegue | Vercel, Netlify, Railway |
+
+> [!TIP]
+> La selección tecnológica depende de los requisitos del proyecto, la mantenibilidad del código y las necesidades de cada solución.
 
 ---
 
-## 🟣 03 / Proyectos destacados
-
-![PROJECTS](https://img.shields.io/badge/PROJECTS-302449?style=flat-square&logo=github&logoColor=D2A8FF)
+## 03 / Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 EMBAL — Sistema de inventario
+### EMBAL — Sistema de inventario
 
 Desarrollo de un sistema web interno para la gestión de compras e inventario.
 
@@ -103,7 +130,7 @@ Desarrollo de un sistema web interno para la gestión de compras e inventario.
 </td>
 <td width="50%" valign="top">
 
-### 🟦 SENAVEX — Directorio Exportador
+### SENAVEX — Directorio Exportador
 
 Participación en el mantenimiento y mejora de una plataforma institucional para promocionar productos bolivianos.
 
@@ -122,7 +149,7 @@ Participación en el mantenimiento y mejora de una plataforma institucional para
 <tr>
 <td width="50%" valign="top">
 
-### 🟠 CASAPIEL — Administración web
+### CASAPIEL — Administración web
 
 Migración y reconstrucción del sitio corporativo, con herramientas para la gestión comercial.
 
@@ -139,7 +166,7 @@ Migración y reconstrucción del sitio corporativo, con herramientas para la ges
 </td>
 <td width="50%" valign="top">
 
-### 🟣 UrsuStudio — Estudio digital
+### UrsuStudio — Estudio digital
 
 Proyecto independiente de diseño y desarrollo web enfocado en landing pages personalizadas.
 
@@ -156,11 +183,15 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 </tr>
 </table>
 
+> [!IMPORTANT]
+> Los proyectos anteriores reflejan experiencia en desarrollo, mantenimiento, gestión de información y publicación de soluciones web. Las tecnologías y responsabilidades se describen según el trabajo realizado en cada proyecto.
+
+> [!NOTE]
+> Los detalles técnicos, las funcionalidades y el alcance de cada proyecto pueden variar según sus requisitos y el entorno de implementación.
+
 ---
 
-## 🟠 04 / Experiencia profesional
-
-![EXPERIENCE](https://img.shields.io/badge/EXPERIENCE-492D18?style=flat-square&logo=gitbook&logoColor=FFA657)
+## 04 / Experiencia profesional
 
 | Periodo | Experiencia |
 |:--|:--|
@@ -169,29 +200,34 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 | **Feb. – Jul. 2025** | **EMBAL** — Desarrollo de sistema interno de compras e inventario. |
 | **Abr. – Nov. 2024** | **SENAVEX** — Prácticas en Sistemas. Refactorización, desarrollo web y pruebas funcionales. |
 
+> [!TIP]
+> Mi experiencia abarca distintas etapas del ciclo de desarrollo: análisis de necesidades, implementación, mantenimiento, pruebas y despliegue.
+
 ---
 
-## 🟢 05 / Estadísticas de GitHub
-
-![GITHUB STATS](https://img.shields.io/badge/GITHUB_ANALYTICS-163D35?style=flat-square&logo=github&logoColor=B6FF5C)
+## 05 / Estadísticas de GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JorchW&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B6FF5C&icon_color=58A6FF&text_color=E6EDF3" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JorchW&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B6FF5C&icon_color=B6FF5C&text_color=E6EDF3" alt="Estadísticas de GitHub"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchW&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2A8FF&text_color=E6EDF3&langs_count=8" alt="Lenguajes más utilizados" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchW&layout=compact&hide_border=true&bg_color=0D1117&title_color=B6FF5C&text_color=E6EDF3&langs_count=8" alt="Lenguajes más utilizados"/>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=JorchW&theme=transparent&hide_border=true&ring=B6FF5C&fire=FFA657&currStreakLabel=B6FF5C&sideLabels=58A6FF&dates=8B949E" alt="Actividad de GitHub" />
+<img width="90%" src="https://streak-stats.demolab.com?user=JorchW&theme=transparent&hide_border=true&ring=B6FF5C&fire=B6FF5C&currStreakLabel=B6FF5C&sideLabels=E6EDF3&dates=8B949E" alt="Actividad de GitHub"/>
 
 </div>
 
+> [!NOTE]
+> Las estadísticas se generan a partir de los datos públicos de GitHub y dependen de la disponibilidad de los servicios externos utilizados para mostrarlas.
+
+> [!WARNING]
+> Los gráficos pueden tardar en cargar o no estar disponibles temporalmente. Sus métricas no representan por sí solas la totalidad de la experiencia profesional ni la calidad del código.
+
 ---
 
-## 🎓 06 / Formación
-
-![EDUCATION](https://img.shields.io/badge/EDUCATION-302449?style=flat-square&logo=bookstack&logoColor=D2A8FF)
+## 06 / Formación
 
 **Ingeniería de Sistemas**
 
@@ -199,54 +235,23 @@ Universidad Tecnológica Boliviana (UTB) · La Paz, Bolivia
 
 Egresado — noviembre de 2025
 
-**Idiomas:** Español nativo · Inglés B1 (intermedio)
+**Idiomas:** español nativo · inglés B1 (intermedio)
 
----
-
-## 💻 07 / Contacto
-
-![CONTACT](https://img.shields.io/badge/CONTACT-142D4E?style=flat-square&logo=gnometerminal&logoColor=58A6FF)
-
-<div align="center">
-
-**¿Tienes un proyecto en mente? Hablemos.**
-
-</div>
-
-```bash
-$ open portfolio
-```
-
-[**→ devjorgev.vercel.app**](https://devjorgev.vercel.app/)
-
-```bash
-$ connect linkedin
-```
-
-[**→ linkedin.com/in/jorchw**](https://www.linkedin.com/in/jorchw)
-
-```bash
-$ git clone https://github.com/JorchW/JorchW.git
-```
-
-[**→ github.com/JorchW**](https://github.com/JorchW)
-
-```bash
-$ mail --to="TU_CORREO@EJEMPLO.COM"
-```
-
-[**→ Enviar un correo electrónico**](mailto:TU_CORREO@EJEMPLO.COM)
-
-> **Nota:** reemplaza `TU_CORREO@EJEMPLO.COM` por tu dirección real en las dos últimas apariciones antes de publicar.
+> [!IMPORTANT]
+> Formación orientada a los fundamentos de sistemas de información, desarrollo de software y resolución de problemas mediante tecnología.
 
 ---
 
 <div align="center">
 
-<sub><code style="color:#B6FF5C">System.out.println("Thanks for visiting my profile!");</code></sub>
+<a href="https://devjorgev.vercel.app/">PORTAFOLIO</a>
+&nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/jorchw">LINKEDIN</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/JorchW">GITHUB</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163D35,100:B6FF5C&height=100&section=footer" width="100%" alt="Separador final" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163D35,100:B6FF5C&height=100&section=footer" width="100%" alt="Separador final"/>
 
 </div>
