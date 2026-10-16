@@ -22,6 +22,11 @@
     <img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
   </a>
 
+>[!IMPORTANT]
+>```
+>HOLA A TODOS
+>```
+
 </div>
 
 ## 01 / Perfil
@@ -54,14 +59,15 @@
 
 <br>
 
-| Área | Tecnologías |
-|:--|:--|
-| Frontend | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
-| Backend | PHP, Laravel, integración de APIs |
-| Bases de datos | PostgreSQL, MySQL, Supabase |
-| CMS y comercio electrónico | WordPress, Elementor, WooCommerce |
-| Control de versiones | Git, GitHub |
-| Despliegue | Vercel, Netlify, Railway |
+>[!NOTE]
+>| Área | Tecnologías |
+>|:--|:--|
+>| Frontend | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
+>| Backend | PHP, Laravel, integración de APIs |
+>| Bases de datos | PostgreSQL, MySQL, Supabase |
+>| CMS y comercio electrónico | WordPress, Elementor, WooCommerce |
+>| Control de versiones | Git, GitHub |
+>| Despliegue | Vercel, Netlify, Railway |
 
 ---
 
