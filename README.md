@@ -1,74 +1,27 @@
- <div align="center">
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/JorchW/JorchW/blob/main/README.md">Español - Spanish</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/JorchW/JorchW/blob/main/README.en.md">Ingles - English</a>
+  </p>
 
 <img src="./background.png" width="100%" alt="DEVJORGE">
 
-<p>
-  <a href="https://github.com/JorchW/JorchW/blob/main/README.md">Español - Spanish</a>
-  ·
-  <a href="https://github.com/JorchW/JorchW/blob/main/README.en.md">English - Inglés</a>
-</p>
+  <br/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=B6FF5C&center=true&vCenter=true&width=700&lines=Jorge+Wilmer;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollo+web+y+sistemas+de+informaci%C3%B3n" alt="Presentación de Jorge"/>
-
-<br/>
-
-<a href="https://devjorgev.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTAFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C" alt="Portafolio"/>
-</a>
-<a href="https://www.linkedin.com/in/jorchw">
-  <img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/JorchW">
-  <img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=B6FF5C" alt="GitHub"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=B6FF5C&center=true&vCenter=true&width=700&lines=Jorge+Wilmer;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollo+web+y+sistemas+de+informaci%C3%B3n" alt="Presentación de Jorge"/>
 
 </div>
 
----
-
 ## 01 / Perfil
 
-> [!TIP]
-> **Desarrollo Full Stack · Sistemas de información · Soluciones web**
->
-> Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador web Full Stack de La Paz, Bolivia.
->
-> Tengo experiencia en desarrollo, refactorización y mantenimiento de plataformas web, sistemas de información, administración de sitios corporativos y gestión de bases de datos.
->
-> He trabajado tanto en la mejora de aplicaciones existentes como en el desarrollo de sistemas desde cero, participando en su implementación, pruebas y despliegue.
->
-> Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio digital independiente enfocado en landing pages a medida.
-
-> [!IMPORTANT]
-> Mi enfoque combina desarrollo web, mantenimiento de aplicaciones, gestión de datos y creación de soluciones adaptadas a las necesidades de cada proyecto.
-
-### Enlaces de contacto
-
-**Portafolio — copiar enlace**
-
-```text
-https://devjorgev.vercel.app/
-```
-
-**LinkedIn — copiar enlace**
-
-```text
-https://www.linkedin.com/in/jorchw
-```
-
-**GitHub — copiar enlace**
-
-```text
-https://github.com/JorchW
-```
-
-**Correo electrónico — reemplazar por tu dirección real**
-
-```text
-tu-correo@ejemplo.com
-```
+ [!TIP]
+ Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador  web Full Stack de La Paz, Bolivia.
+ Tengo experiencia en desarrollo, refactorización y mantenimiento de  plataformas web, sistemas de información, administración de sitios  corporativos y gestión de bases de datos.
+ He trabajado tanto en la mejora de aplicaciones existentes como en el  desarrollo de sistemas desde cero, participando en su implementación,  pruebas y despliegue.
+ Actualmente desarrollo proyectos web a través de **UrsuStudio**, un  estudio digital independiente enfocado en landing pages a medida.
 
 ---
 
@@ -78,32 +31,29 @@ tu-correo@ejemplo.com
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&theme=dark" alt="Tecnologías frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend y bases de datos**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="Tecnologías backend y bases de datos"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase&theme=dark" alt="Backend y bases de datos"/>
 
 **Herramientas y despliegue**
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,wordpress,vercel,netlify&theme=dark" alt="Herramientas y despliegue"/>
+<img src="https://skillicons.dev/icons?i=git,github,npm,wordpress,vercel,netlify&theme=dark" alt="Herramientas"/>
 
 </div>
 
-> [!NOTE]
-> Estas tecnologías representan las herramientas utilizadas en mis proyectos de desarrollo web, gestión de información y publicación de aplicaciones.
+<br>
 
-| Área | Tecnologías |
-|:--|:--|
-| Frontend | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
-| Backend | PHP, Laravel, integración de APIs |
-| Bases de datos | PostgreSQL, MySQL, Supabase |
-| CMS y comercio electrónico | WordPress, Elementor, WooCommerce |
-| Control de versiones | Git, GitHub |
-| Despliegue | Vercel, Netlify, Railway |
-
-> [!TIP]
-> La selección tecnológica depende de los requisitos del proyecto, la mantenibilidad del código y las necesidades de cada solución.
+>[!CAUTION]
+>| Área                       | Tecnologías                                                    |
+>| :------------------------- | :------------------------------------------------------------- |
+>| Frontend                   | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
+>| Backend                    | PHP, Laravel, integración de APIs                              |
+>| Bases de datos             | PostgreSQL, MySQL, Supabase                                    |
+>| CMS y comercio electrónico | WordPress, Elementor, WooCommerce                              |
+>| Control de versiones       | Git, GitHub                                                    |
+>| Despliegue                 | Vercel, Netlify, Railway                                       |
 
 ---
 
@@ -113,7 +63,7 @@ tu-correo@ejemplo.com
 <tr>
 <td width="50%" valign="top">
 
-### EMBAL — Sistema de inventario
+### EMBAL - Sistema de inventario
 
 Desarrollo de un sistema web interno para la gestión de compras e inventario.
 
@@ -130,7 +80,7 @@ Desarrollo de un sistema web interno para la gestión de compras e inventario.
 </td>
 <td width="50%" valign="top">
 
-### SENAVEX — Directorio Exportador
+### SENAVEX - Directorio Exportador
 
 Participación en el mantenimiento y mejora de una plataforma institucional para promocionar productos bolivianos.
 
@@ -149,7 +99,7 @@ Participación en el mantenimiento y mejora de una plataforma institucional para
 <tr>
 <td width="50%" valign="top">
 
-### CASAPIEL — Administración web
+### CASAPIEL - Administración web
 
 Migración y reconstrucción del sitio corporativo, con herramientas para la gestión comercial.
 
@@ -166,7 +116,7 @@ Migración y reconstrucción del sitio corporativo, con herramientas para la ges
 </td>
 <td width="50%" valign="top">
 
-### UrsuStudio — Estudio digital
+### UrsuStudio - Estudio digital
 
 Proyecto independiente de diseño y desarrollo web enfocado en landing pages personalizadas.
 
@@ -183,25 +133,17 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 </tr>
 </table>
 
-> [!IMPORTANT]
-> Los proyectos anteriores reflejan experiencia en desarrollo, mantenimiento, gestión de información y publicación de soluciones web. Las tecnologías y responsabilidades se describen según el trabajo realizado en cada proyecto.
-
-> [!NOTE]
-> Los detalles técnicos, las funcionalidades y el alcance de cada proyecto pueden variar según sus requisitos y el entorno de implementación.
-
 ---
 
 ## 04 / Experiencia profesional
 
-| Periodo | Experiencia |
-|:--|:--|
-| **2026 – Actualidad** | **UrsuStudio** — Fundador y desarrollador web. Creación y publicación de landing pages a medida. |
-| **Mar. – Nov. 2025** | **CASAPIEL** — Administración web y soporte IT. Migración del sitio, integración de WooCommerce y mantenimiento técnico. |
-| **Feb. – Jul. 2025** | **EMBAL** — Desarrollo de sistema interno de compras e inventario. |
-| **Abr. – Nov. 2024** | **SENAVEX** — Prácticas en Sistemas. Refactorización, desarrollo web y pruebas funcionales. |
-
-> [!TIP]
-> Mi experiencia abarca distintas etapas del ciclo de desarrollo: análisis de necesidades, implementación, mantenimiento, pruebas y despliegue.
+>[!WARNING]
+>| Periodo               | Experiencia                                                                                                              |
+>| :-------------------- | :----------------------------------------------------------------------------------------------------------------------- |
+>| **2026 – Actualidad** | **UrsuStudio** - Fundador y desarrollador web. Creación y publicación de landing pages a medida.                         |
+>| **Mar. – Nov. 2025**  | **CASAPIEL** - Administración web y soporte IT. Migración del sitio, integración de WooCommerce y mantenimiento técnico. |
+>| **Feb. – Jul. 2025**  | **EMBAL** - Desarrollo de sistema interno de compras e inventario.                                                       |
+>| **Abr. – Nov. 2024**  | **SENAVEX** - Prácticas en Sistemas. Refactorización, desarrollo web y pruebas funcionales.                              |
 
 ---
 
@@ -219,39 +161,44 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 
 </div>
 
-> [!NOTE]
-> Las estadísticas se generan a partir de los datos públicos de GitHub y dependen de la disponibilidad de los servicios externos utilizados para mostrarlas.
-
-> [!WARNING]
-> Los gráficos pueden tardar en cargar o no estar disponibles temporalmente. Sus métricas no representan por sí solas la totalidad de la experiencia profesional ni la calidad del código.
-
 ---
 
 ## 06 / Formación
 
-**Ingeniería de Sistemas**
-
-Universidad Tecnológica Boliviana (UTB) · La Paz, Bolivia
-
-Egresado — noviembre de 2025
-
-**Idiomas:** español nativo · inglés B1 (intermedio)
-
-> [!IMPORTANT]
-> Formación orientada a los fundamentos de sistemas de información, desarrollo de software y resolución de problemas mediante tecnología.
+>[!NOTE]
+>**Ingeniería de Sistemas**  
+>Universidad Tecnológica Boliviana (UTB) · La Paz, Bolivia  
+>Egresado - noviembre de 2025
+>
+>**Idiomas:** español nativo · inglés B1 (intermedio)
 
 ---
 
-<div align="center">
+<div>
 
-<a href="https://devjorgev.vercel.app/">PORTAFOLIO</a>
-&nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/jorchw">LINKEDIN</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/JorchW">GITHUB</a>
+### Enlaces de contacto
 
-<br/><br/>
+>[!IMPORTANT]
+>**Portafolio - copiar enlace**
+>```text
+>https://devjorgev.vercel.app/
+>```
+>**LinkedIn - copiar enlace**
+>```text
+>https://www.linkedin.com/in/jorchw
+>```
+>**GitHub - copiar enlace**
+>```text
+>https://github.com/JorchW
+>```
+>**Correo electrónico - reemplazar por tu dirección real**
+>
+>```text
+>jorgejwcn27_27@hotmail.com
+>```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163D35,100:B6FF5C&height=100&section=footer" width="100%" alt="Separador final"/>
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:163D35,100:B6FF5C&height=100&section=footer" width="100%" alt="Separador final"/>
 
 </div>
