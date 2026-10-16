@@ -1,20 +1,32 @@
 
+<!-- HERO -->
 <div align="center">
+
+  <img src="./banner.png" width="100%" alt="DEVJORGE — Digital Craft"/>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=B6FF5C&center=true&vCenter=true&width=750&lines=JORGE+WILMER+CHOQUE+NINA;SYSTEMS+ENGINEER+%2F+FULL+STACK+DEVELOPER;Building+digital+experiences+with+purpose." alt="DEVJORGE animated introduction"/>
+
+  <br/>
+
   <p>
-    <a href="https://github.com/JorchW/JorchW/blob/main/README.md">🇪🇸 ES</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/JorchW/JorchW/blob/main/README.en.md">EN 🇬🇧</a>
+    <a href="https://devjorgev.vercel.app/">
+      <img src="https://img.shields.io/badge/PORTFOLIO-Explore-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/JorchW">
+      <img src="https://img.shields.io/badge/GITHUB-JorchW-101820?style=for-the-badge&logo=github&logoColor=B6FF5C" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/jorchw">
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
+    </a>
   </p>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=B6FF5C&center=true&vCenter=true&width=700&lines=Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollo+web+y+sistemas+de+informaci%C3%B3n" alt="Presentación de Jorge"/>
-  <br/>
-  <a href="https://devjorgev.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C" alt="Portafolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jorchw">
-    <img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
-  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=JorchW&label=PROFILE%20VIEWS&color=B6FF5C&style=flat-square" alt="Profile views"/>
+
 </div>
+
+<br/>
 
 ## 01 / Perfil
 
