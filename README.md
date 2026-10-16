@@ -1,39 +1,51 @@
 
-<!-- HERO -->
 <div align="center">
 
-  <img src="./banner.png" width="100%" alt="DEVJORGE — Digital Craft"/>
-
-  <br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=B6FF5C&center=true&vCenter=true&width=750&lines=JORGE+WILMER+CHOQUE+NINA;SYSTEMS+ENGINEER+%2F+FULL+STACK+DEVELOPER;Building+digital+experiences+with+purpose." alt="DEVJORGE animated introduction"/>
-
-  <br/>
+  <img src="./background.png" width="100%" alt="DEVJORGE"/>
 
   <p>
-    <a href="https://devjorgev.vercel.app/">
-      <img src="https://img.shields.io/badge/PORTFOLIO-Explore-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/JorchW">
-      <img src="https://img.shields.io/badge/GITHUB-JorchW-101820?style=for-the-badge&logo=github&logoColor=B6FF5C" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/jorchw">
-      <img src="https://img.shields.io/badge/LINKEDIN-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
-    </a>
+    <a href="https://github.com/JorchW/JorchW/blob/main/README.md">Español - Spanish</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/JorchW/JorchW/blob/main/README.en.md">Ingles - English</a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=JorchW&label=PROFILE%20VIEWS&color=B6FF5C&style=flat-square" alt="Profile views"/>
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=B6FF5C&center=true&vCenter=true&width=700&lines=Jorge+Wilmer;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Desarrollo+web+y+sistemas+de+informaci%C3%B3n" alt="Presentación de Jorge"/>
+
+  <br/>
+
+  <a href="https://devjorgev.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=B6FF5C" alt="Portafolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jorchw">
+    <img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=B6FF5C" alt="LinkedIn"/>
+  </a>
 
 </div>
 
-<br/>
+> [!TIP] 
+> ***Paso 1***
+> ***Clonar el repositorio del Directorio con el siguiente comando:***
+> 
+>
+> ```cmd
+> git clone https://github.com/usprepositorio/DIRECTORIO.git
+> ```
+
+---
 
 ## 01 / Perfil
 
 Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador web Full Stack de La Paz, Bolivia.
+
 Tengo experiencia en desarrollo, refactorización y mantenimiento de plataformas web, sistemas de información, administración de sitios corporativos y gestión de bases de datos.
+
 He trabajado tanto en la mejora de aplicaciones existentes como en el desarrollo de sistemas desde cero, participando en su implementación, pruebas y despliegue.
+
 Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio digital independiente enfocado en landing pages a medida.
+
+---
 
 ## 02 / Tecnologías
 
@@ -53,6 +65,8 @@ Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio dig
 
 </div>
 
+<br>
+
 | Área | Tecnologías |
 |:--|:--|
 | Frontend | ReactJS, Vite, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap |
@@ -61,6 +75,8 @@ Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio dig
 | CMS y comercio electrónico | WordPress, Elementor, WooCommerce |
 | Control de versiones | Git, GitHub |
 | Despliegue | Vercel, Netlify, Railway |
+
+---
 
 ## 03 / Proyectos destacados
 
@@ -138,6 +154,8 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 </tr>
 </table>
 
+---
+
 ## 04 / Experiencia profesional
 
 | Periodo | Experiencia |
@@ -146,6 +164,8 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 | **Mar. – Nov. 2025** | **CASAPIEL** — Administración web y soporte IT. Migración del sitio, integración de WooCommerce y mantenimiento técnico. |
 | **Feb. – Jul. 2025** | **EMBAL** — Desarrollo de sistema interno de compras e inventario. |
 | **Abr. – Nov. 2024** | **SENAVEX** — Prácticas en Sistemas. Refactorización, desarrollo web y pruebas funcionales. |
+
+---
 
 ## 05 / Estadísticas de GitHub
 
@@ -161,6 +181,8 @@ Proyecto independiente de diseño y desarrollo web enfocado en landing pages per
 
 </div>
 
+---
+
 ## 06 / Formación
 
 **Ingeniería de Sistemas**  
@@ -168,6 +190,8 @@ Universidad Tecnológica Boliviana (UTB) · La Paz, Bolivia
 Egresado — noviembre de 2025
 
 **Idiomas:** español nativo · inglés B1 (intermedio)
+
+---
 
 <div align="center">
 
