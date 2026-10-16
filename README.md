@@ -30,6 +30,8 @@
 > Tengo experiencia en desarrollo, refactorización y mantenimiento de plataformas web, sistemas de información, administración de sitios corporativos y gestión de bases de datos.
 > He trabajado tanto en la mejora de aplicaciones existentes como en el desarrollo de sistemas desde cero, participando en su implementación, pruebas y despliegue.
 > Actualmente desarrollo proyectos web a través de **UrsuStudio**, un estudio digital independiente enfocado en landing pages a medida.
+> ```
+
 
 ---
 
