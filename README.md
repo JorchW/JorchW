@@ -7,9 +7,6 @@
 
 <!-- HERO -->
 <div align="center">
-
-  <img src="./banner.png" width="100%" alt="DEVJORGE — Digital Craft"/>
-
   <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=B6FF5C&center=true&vCenter=true&width=750&lines=JORGE+WILMER+CHOQUE+NINA;SYSTEMS+ENGINEER+%2F+FULL+STACK+DEVELOPER;Building+digital+experiences+with+purpose." alt="DEVJORGE animated introduction"/>
@@ -41,7 +38,7 @@
 
 ## `01` / ABOUT ME
 
-### Hola, soy Jorge. 👋
+### Hola, soy Jorge.
 
 Soy **Ingeniero de Sistemas y desarrollador web Full Stack**, de La Paz, Bolivia.
 
@@ -92,8 +89,6 @@ const jorge = {
 
 <br/>
 
-🖥️
-
 <br/>
 
 **FULL STACK**
@@ -108,8 +103,6 @@ const jorge = {
 **02**
 
 <br/>
-
-🗄️
 
 <br/>
 
@@ -126,8 +119,6 @@ const jorge = {
 
 <br/>
 
-🚀
-
 <br/>
 
 **DEPLOYMENT**
@@ -142,8 +133,6 @@ const jorge = {
 **04**
 
 <br/>
-
-💡
 
 <br/>
 
@@ -216,7 +205,7 @@ const jorge = {
 <tr>
 <td width="50%" valign="top">
 
-### 📦 01. EMBAL — Inventory System
+### 01. EMBAL — Inventory System
 
 **Internal purchasing and inventory management system.**
 
@@ -237,7 +226,7 @@ Developed from scratch to support inventory operations and improve stock control
 </td>
 <td width="50%" valign="top">
 
-### 🌐 02. SENAVEX — Export Directory
+### 02. SENAVEX — Export Directory
 
 **Institutional platform for promoting Bolivian products.**
 
@@ -260,7 +249,7 @@ Contributed to the maintenance and improvement of the public website and private
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ 03. CASAPIEL — Web Administration
+### 03. CASAPIEL — Web Administration
 
 **Corporate website and e-commerce management.**
 
@@ -281,7 +270,7 @@ Rebuilt the website using WordPress and integrated tools for catalog management 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 04. UrsuStudio — Digital Studio
+### 04. UrsuStudio — Digital Studio
 
 **Independent web design and development.**
 
@@ -414,7 +403,7 @@ Building customized landing pages and digital experiences for projects and busin
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Education
+### Education
 
 **Ingeniería de Sistemas**
 
@@ -427,7 +416,7 @@ Graduated / Egresado — November 2025
 </td>
 <td width="50%" valign="top">
 
-### 🌎 Languages
+### Languages
 
 **Spanish** — Native
 
@@ -470,7 +459,7 @@ I'm open to connecting with developers, teams and businesses interested in web d
 
 <br/><br/>
 
-📍 **La Paz, Bolivia 🇧🇴**
+**La Paz, Bolivia 🇧🇴**
 
 <br/>
 
