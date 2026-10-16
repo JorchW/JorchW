@@ -33,6 +33,14 @@
 
 ---
 
+> [!TIP]
+> ***Paso 2***
+> ***Ingresar al archivo donde se ha Clonado el Directorio:***
+> 
+> ```cmd
+> cd directorio
+> ```
+
 ## 02 / Tecnologías
 
 <div align="center">
