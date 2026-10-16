@@ -24,7 +24,7 @@
 
 </div>
 
-> [!TIP] PERFIL
+>> [!TIP] ## PERFIL
 > 
 > Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador web Full Stack de La Paz, Bolivia.
 > Tengo experiencia en desarrollo, refactorización y mantenimiento de plataformas web, sistemas de información, administración de sitios corporativos y gestión de bases de datos.
