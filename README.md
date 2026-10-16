@@ -1,9 +1,5 @@
 
 <div align="center">
-
-<img src="./background.png" style="width: 100%; height: 200px; object-fit: cover;" alt="DEVJORGE">
-
-
   <p>
     <a href="https://github.com/JorchW/JorchW/blob/main/README.md">Español - Spanish</a>
     &nbsp;·&nbsp;
