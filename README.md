@@ -24,13 +24,7 @@
 
 </div>
 
-> [!TIP] ## 01 / Perfil
-
-> [!TIP] # 01 / Perfil
-
-> [!TIP] 01 / Perfil
-
-> [!TIP] ## PERFIL
+> [!TIP] PERFIL
 > 
 > Soy **Jorge Wilmer Choque Nina**, Ingeniero de Sistemas y desarrollador > web Full Stack de La Paz, Bolivia.
 > 
