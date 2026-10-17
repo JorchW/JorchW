@@ -4,6 +4,12 @@
      ============================================================ -->
 
 <div align="center">
+     
+<a href="./README.md"><b>Español</b></a>
+&nbsp;|&nbsp;
+<a href="./README.en.md">English</a>
+
+<img src="./background.png" width="100%" alt="background"/>
 
 <!-- Encabezado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Jorge%20Wilmer&fontSize=64&fontColor=B6FF5C&fontAlignY=38&color=0:0D1117,50:163D35,100:0D1117&animation=fadeIn" width="100%" alt="Jorge Wilmer"/>
@@ -19,10 +25,6 @@
 <img src="https://img.shields.io/badge/UrsuStudio-Fundador-0D1117?style=flat-square&labelColor=163D35&color=0D1117" alt="UrsuStudio"/>
 
 <br/><br/>
-
-<a href="./README.md"><b>Español</b></a>
-&nbsp;|&nbsp;
-<a href="./README.en.md">English</a>
 
 </div>
 
